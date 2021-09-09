@@ -5,6 +5,7 @@
 #### About me
 
 - 👨‍💻 Here on my GitHub profile you can see all my projects. 
+- 💬 English C1 level.
 - 📫 Feel free to email me **dianesantosdreis@gmail.com**
 - ✨ I’m interested in • Programming • Films • Chess • Reading • Studying
 
