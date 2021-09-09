@@ -1,4 +1,4 @@
-# Hi :wave:, I'm Diane Reis 
+# Hi :wave:, and welcome to my profile!
 
 [![LinkedIn]](https://www.linkedin.com/in/diane-reis/)
 
